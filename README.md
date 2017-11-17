@@ -24,4 +24,4 @@ O Projeto é escrito em Java e utilizada Banco de Dados Mysql, no repositório e
 
 ## Dificuldades
 
-A principal dificuldade foi a pouca prática em trabalhar com sockets, já fazia algum tempo em que eu não implementava nada relaciondo. Gostaria de deixar o banco um pouco mais otimizado, de uma fosse necessário uma passo a passo para a configuração. Caso tivesse um pouco mais de tempo, eu gostaria de tratar todas as exceções que uma interface em comand line trás e até mesmo fazer um interface web ou desktop.  
+A principal dificuldade foi a pouca prática em trabalhar com sockets, já fazia algum tempo em que eu não implementava nada relaciondo. Gostaria de deixar o banco um pouco mais otimizado, de uma fosse necessário uma passo a passo para a configuração. Caso tivesse um pouco mais de tempo, eu gostaria de tratar todas as exceções que uma interface em comand line trás e até mesmo fazer um interface web ou desktop. Outra dificuldade foi encontrar uma dupla para fazer o projeto, visto que não encontrei, fiz o projeto sozinho. 
