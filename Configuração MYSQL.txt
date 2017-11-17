@@ -1,0 +1,8 @@
+﻿Olá, nesse arquivo descrevo alguns passos para o funcionamento correto do projeto, segue:
+
+1 - Importar no mysql o banco: sistemalocalizacao.sql
+2 - Alterar a senha root do mysql, que se encontra na classe GerenteDeConexao na linha 14.
+3 - Conferir se o connector do mysql está no Build Path do projeto, caso não esteja, adiciona-lo, está na pasta lib.
+4 - Senha de administrador padrão
+	login: adm
+	senha: adm
