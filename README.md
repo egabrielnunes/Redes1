@@ -1,4 +1,5 @@
-# Redes1
+# Projeto de Redes1 - Sistema de Localização de pontos de interesse
+### Eduardo Gabriel Nunes de Farias
 
 Esse projeto é um sistema de localização e cadastro de pontos de interesse. Existem inicialmente dois módulos, o de usuário comum onde existe apenas as funcionalidades de listagem e o módulo de administrador, onde se pode além das funcionalidades do usuário comum é possivel adicionar e remover os pontos.
 
